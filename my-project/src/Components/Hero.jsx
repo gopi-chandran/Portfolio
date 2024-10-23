@@ -6,7 +6,7 @@ export default function Hero() {
         subtitle: "Im a Front-end Developer",
         social:{
             gmail:"https://mail.google.com/mail/u/1/#inbox?compose=new",
-            linkedin: "https://www.linkedin.com/in/gopi05/",
+            linkedin: "https://www.linkedin.com/in/gopi-c/",
             github: "https://github.com/gopi-chandran"
         }
     }
