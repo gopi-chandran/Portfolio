@@ -7,7 +7,7 @@ export default function Hero() {
         social:{
             gmail:"https://mail.google.com/mail/u/1/#inbox?compose=new",
             linkedin: "https://www.linkedin.com/in/gopi05/",
-            github: "https://github.com/gopichandran13"
+            github: "https://github.com/gopi-chandran"
         }
     }
     return <section className="flex flex-col md:flex-row px-10 py-32 bg-white justify-center">
